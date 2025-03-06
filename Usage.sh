@@ -8,3 +8,5 @@ echo "Memory Usage:"
 free -m
 echo "Disk Usage:"
 df -h
+echo "Working Directory"
+pwd
