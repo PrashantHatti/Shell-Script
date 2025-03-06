@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Working Directory"
+pwd
 echo "System Resource Report"
 echo "------------------------"
 echo "CPU Usage:"
